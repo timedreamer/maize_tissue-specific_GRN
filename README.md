@@ -3,3 +3,5 @@ This is the source code repository for the maize tissue-specific GRN project.
 
 All codes were tested in R version 3.4.3 (2017-11-30).
 
+
+Citation: Distinct tissue-specific transcriptional regulation revealed by gene regulatory networks in maize (submitted)
